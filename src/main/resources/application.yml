@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Produtos API
+  datasource:
+    url: ''
+    username: ''
+    password: ''
